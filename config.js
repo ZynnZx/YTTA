@@ -4,13 +4,13 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 812-5154-9899'],
-  ['+62 812-5154-9899', 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑', true],
+  ['+62 812-9115-5341'],
+  ['+62 812-9115-5341', 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'YourApikey'
+global.lolkey = '6370e803a69b732788bc252f'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -27,7 +27,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'YourApikey',
+  'https://api.xteam.xyz': '6370e803a69b732788bc252f',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
